@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PI_D\\Albertus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4F4F45-3A33-4BEC-B925-FD55F8846768}|Albertus.API\\Albertus.API.csproj|c:\\pi_d\\albertus\\albertus.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4F4F45-3A33-4BEC-B925-FD55F8846768}|Albertus.API\\Albertus.API.csproj|solutionrelative:albertus.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C152DDB-2C9B-468B-B282-F39E3B2DC12A}|Albertus.Infrastructure\\Albertus.Infrastructure.csproj|c:\\pi_d\\albertus\\albertus.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C152DDB-2C9B-468B-B282-F39E3B2DC12A}|Albertus.Infrastructure\\Albertus.Infrastructure.csproj|solutionrelative:albertus.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|c:\\pi_d\\albertus\\albertus.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|solutionrelative:albertus.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|c:\\pi_d\\albertus\\albertus.domain\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|solutionrelative:albertus.domain\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|c:\\pi_d\\albertus\\albertus.domain\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|solutionrelative:albertus.domain\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|c:\\pi_d\\albertus\\albertus.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|solutionrelative:albertus.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4F4F45-3A33-4BEC-B925-FD55F8846768}|Albertus.API\\Albertus.API.csproj|c:\\pi_d\\albertus\\albertus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E4F4F45-3A33-4BEC-B925-FD55F8846768}|Albertus.API\\Albertus.API.csproj|solutionrelative:albertus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|c:\\pi_d\\albertus\\albertus.domain\\dtos\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|solutionrelative:albertus.domain\\dtos\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|c:\\pi_d\\albertus\\albertus.domain\\dtos\\usuarioregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C42A06-8FAC-4618-864D-9020D2BCD7D4}|Albertus.Domain\\Albertus.Domain.csproj|solutionrelative:albertus.domain\\dtos\\usuarioregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\services\\servicetoken\\token.interceptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\services\\servicetoken\\token.interceptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\contaus\\cadastro-us\\cadastro-us.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\contaus\\cadastro-us\\cadastro-us.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\contaus\\login-us\\login-us.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\contaus\\login-us\\login-us.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C152DDB-2C9B-468B-B282-F39E3B2DC12A}|Albertus.Infrastructure\\Albertus.Infrastructure.csproj|c:\\pi_d\\albertus\\albertus.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C152DDB-2C9B-468B-B282-F39E3B2DC12A}|Albertus.Infrastructure\\Albertus.Infrastructure.csproj|solutionrelative:albertus.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4F4F45-3A33-4BEC-B925-FD55F8846768}|Albertus.API\\Albertus.API.csproj|c:\\pi_d\\albertus\\albertus.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E4F4F45-3A33-4BEC-B925-FD55F8846768}|Albertus.API\\Albertus.API.csproj|solutionrelative:albertus.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\contaus\\login-us\\login-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\contaus\\login-us\\login-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\contaus\\cadastro-us\\cadastro-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\contaus\\cadastro-us\\cadastro-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\contaus\\cadastro-us\\cadastro-us.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\contaus\\cadastro-us\\cadastro-us.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\contaus\\login-us\\login-us.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\contaus\\login-us\\login-us.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4F4F45-3A33-4BEC-B925-FD55F8846768}|Albertus.API\\Albertus.API.csproj|c:\\pi_d\\albertus\\albertus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4F4F45-3A33-4BEC-B925-FD55F8846768}|Albertus.API\\Albertus.API.csproj|solutionrelative:albertus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\pages\\shared\\perfil-us\\perfil-us.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\pages\\shared\\perfil-us\\perfil-us.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|C:\\PI_D\\Albertus\\application\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B6ABDB-AE1E-E181-7F22-27C3344AB954}|C:\\PI_D\\Albertus\\Application|solutionrelative:application\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Albertus.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Albertus.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:44:41.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Albertus.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Albertus.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:58:36.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.Domain\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Albertus.Domain\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.Domain\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Albertus.Domain\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:26:09.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Albertus.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Albertus.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:58:17.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.Domain\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Albertus.Domain\\Models\\Usuario.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.Domain\\Models\\Usuario.cs",
+              "RelativeToolTip": "Albertus.Domain\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:28:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.Domain\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Albertus.Domain\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.Domain\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Albertus.Domain\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:58:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Albertus.API\\appsettings.json",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.API\\appsettings.json",
+              "RelativeToolTip": "Albertus.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T21:25:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioLoginDTO.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.Domain\\DTOs\\UsuarioLoginDTO.cs",
+              "RelativeDocumentMoniker": "Albertus.Domain\\DTOs\\UsuarioLoginDTO.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.Domain\\DTOs\\UsuarioLoginDTO.cs",
+              "RelativeToolTip": "Albertus.Domain\\DTOs\\UsuarioLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:58:26.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioRegisterDTO.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.Domain\\DTOs\\UsuarioRegisterDTO.cs",
+              "RelativeDocumentMoniker": "Albertus.Domain\\DTOs\\UsuarioRegisterDTO.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.Domain\\DTOs\\UsuarioRegisterDTO.cs",
+              "RelativeToolTip": "Albertus.Domain\\DTOs\\UsuarioRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:58:24.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "token.interceptor.ts",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\Services\\serviceToken\\token.interceptor.ts",
+              "RelativeDocumentMoniker": "Application\\src\\app\\Services\\serviceToken\\token.interceptor.ts",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\Services\\serviceToken\\token.interceptor.ts",
+              "RelativeToolTip": "Application\\src\\app\\Services\\serviceToken\\token.interceptor.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-15T12:13:07.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\Services\\auth.service.ts",
+              "RelativeDocumentMoniker": "Application\\src\\app\\Services\\auth.service.ts",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\Services\\auth.service.ts",
+              "RelativeToolTip": "Application\\src\\app\\Services\\auth.service.ts",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-15T03:05:05.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cadastro-us.component.ts",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.ts",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.ts",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.ts",
+              "RelativeToolTip": "Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-15T11:29:30.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Albertus.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Albertus.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:58:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login-us.component.ts",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.ts",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.ts",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.ts",
+              "RelativeToolTip": "Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-15T03:18:10.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Albertus.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Albertus.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T03:21:50.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cadastro-us.component.html",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.html",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.html",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.html",
+              "RelativeToolTip": "Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-15T12:55:47.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login-us.component.html",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.html",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.html",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.html",
+              "RelativeToolTip": "Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-15T12:57:34.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cadastro-us.component.css",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.css",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.css",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.css",
+              "RelativeToolTip": "Application\\src\\app\\pages\\contaUs\\cadastro-us\\cadastro-us.component.css",
+              "ViewState": "AgIAABoBAAAAAAAAAAAmwC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-11T20:56:12.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login-us.component.css",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.css",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.css",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.css",
+              "RelativeToolTip": "Application\\src\\app\\pages\\contaUs\\login-us\\login-us.component.css",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAmwIcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-11T20:53:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "menu-vert-m.component.ts",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.ts",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.ts",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.ts",
+              "RelativeToolTip": "Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T11:11:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "menu-vert-m.component.html",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.html",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.html",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.html",
+              "RelativeToolTip": "Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-12T11:11:19.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Albertus.API\\Program.cs",
+              "RelativeDocumentMoniker": "Albertus.API\\Program.cs",
+              "ToolTip": "C:\\PI_D\\Albertus\\Albertus.API\\Program.cs",
+              "RelativeToolTip": "Albertus.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:01:57.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\index.html",
+              "RelativeDocumentMoniker": "Application\\src\\index.html",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\index.html",
+              "RelativeToolTip": "Application\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-11T20:58:43.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\angular.json",
+              "RelativeDocumentMoniker": "Application\\angular.json",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\angular.json",
+              "RelativeToolTip": "Application\\angular.json",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T20:47:47.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "menu-vert-m.component.css",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.css",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.css",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.css",
+              "RelativeToolTip": "Application\\src\\app\\pages\\shared\\menu-vert-m\\menu-vert-m.component.css",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAIwAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-12T11:11:06.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "Application\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "Application\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-11T20:59:56.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "menu-vert.component.ts",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.ts",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.ts",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.ts",
+              "RelativeToolTip": "Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T11:13:16.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "menu-vert.component.css",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.css",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.css",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.css",
+              "RelativeToolTip": "Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.css",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAQwAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-12T11:13:03.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "menu-vert.component.html",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.html",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.html",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.html",
+              "RelativeToolTip": "Application\\src\\app\\pages\\shared\\menu-vert\\menu-vert.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-12T11:12:37.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "perfil-us.component.ts",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\perfil-us\\perfil-us.component.ts",
+              "RelativeDocumentMoniker": "Application\\src\\app\\pages\\shared\\perfil-us\\perfil-us.component.ts",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\pages\\shared\\perfil-us\\perfil-us.component.ts",
+              "RelativeToolTip": "Application\\src\\app\\pages\\shared\\perfil-us\\perfil-us.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T11:09:23.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "Application\\src\\app\\app.component.html",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\app\\app.component.html",
+              "RelativeToolTip": "Application\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-11T20:59:34.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\PI_D\\Albertus\\Application\\src\\styles.css",
+              "RelativeDocumentMoniker": "Application\\src\\styles.css",
+              "ToolTip": "C:\\PI_D\\Albertus\\Application\\src\\styles.css",
+              "RelativeToolTip": "Application\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-11T20:58:22.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

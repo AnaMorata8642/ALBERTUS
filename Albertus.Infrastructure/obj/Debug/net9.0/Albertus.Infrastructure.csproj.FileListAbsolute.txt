@@ -1,0 +1,17 @@
+C:\PI_D\Albertus\Albertus.Infrastructure\bin\Debug\net9.0\Albertus.Infrastructure.deps.json
+C:\PI_D\Albertus\Albertus.Infrastructure\bin\Debug\net9.0\Albertus.Infrastructure.runtimeconfig.json
+C:\PI_D\Albertus\Albertus.Infrastructure\bin\Debug\net9.0\Albertus.Infrastructure.dll
+C:\PI_D\Albertus\Albertus.Infrastructure\bin\Debug\net9.0\Albertus.Infrastructure.pdb
+C:\PI_D\Albertus\Albertus.Infrastructure\bin\Debug\net9.0\Albertus.Domain.dll
+C:\PI_D\Albertus\Albertus.Infrastructure\bin\Debug\net9.0\Albertus.Domain.pdb
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.Infrastructure.csproj.AssemblyReference.cache
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.Infrastructure.AssemblyInfoInputs.cache
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.Infrastructure.AssemblyInfo.cs
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.4AEF966C.Up2Date
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.Infrastructure.dll
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\refint\Albertus.Infrastructure.dll
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.Infrastructure.pdb
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\Albertus.Infrastructure.genruntimeconfig.cache
+C:\PI_D\Albertus\Albertus.Infrastructure\obj\Debug\net9.0\ref\Albertus.Infrastructure.dll

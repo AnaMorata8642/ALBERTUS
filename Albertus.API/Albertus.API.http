@@ -1,0 +1,6 @@
+@Albertus.API_HostAddress = http://localhost:5293
+
+GET {{Albertus.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,14 @@
+C:\PI_D\Albertus\Albertus.Domain\bin\Debug\net9.0\Albertus.Domain.deps.json
+C:\PI_D\Albertus\Albertus.Domain\bin\Debug\net9.0\Albertus.Domain.runtimeconfig.json
+C:\PI_D\Albertus\Albertus.Domain\bin\Debug\net9.0\Albertus.Domain.dll
+C:\PI_D\Albertus\Albertus.Domain\bin\Debug\net9.0\Albertus.Domain.pdb
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\Albertus.Domain.csproj.AssemblyReference.cache
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\Albertus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\Albertus.Domain.AssemblyInfoInputs.cache
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\Albertus.Domain.AssemblyInfo.cs
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\Albertus.Domain.csproj.CoreCompileInputs.cache
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\Albertus.Domain.dll
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\refint\Albertus.Domain.dll
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\Albertus.Domain.pdb
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\Albertus.Domain.genruntimeconfig.cache
+C:\PI_D\Albertus\Albertus.Domain\obj\Debug\net9.0\ref\Albertus.Domain.dll
